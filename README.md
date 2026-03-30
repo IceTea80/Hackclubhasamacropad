@@ -1,8 +1,6 @@
-My name is HAsan Siddii and I created a 16 key macropad with a rotary encoder. I made this hackpad so when I am gaming I can have a smaller keyboard
-or have hotkeys set for when I stream for sound effects or to control my mic.
+My name is Hasan Siddiq and I created a 16 key macropad with a rotary encoder. I made this hackpad so when I game I can have a smaller keyboard or have hotkeys set for when I stream for sound effects or to control my mic.
 
-Making this Macropad allowed me to use fusion 360 and Kicad for the first time. It allowed me to learn new skills and gain expierence in programs which will
-be useful for projects in the future.
+Making this macropad let me use Fusion 360 and KiCad for the first time. It let me learn new skills and get experience in programs that will be useful for projects in the future.
 
 
 PCB:
